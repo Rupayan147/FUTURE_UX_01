@@ -28,14 +28,22 @@ In this repository, you will find:
 ## Visual Assets
 
 <table>
-  <tr>
-    <td><b>Desktop View</b></td>
-    <td><b>Mobile View</b></td>
-  </tr>
-  <tr>
-    <td><img src="Home(Laptop).png" width="500" alt="Desktop Design"></td>
-    <td><img src="Phone.png" width="200" alt="Mobile Design"></td>
-  </tr>
+  <thead>
+    <tr>
+      <th align="left">Desktop View</th>
+      <th align="left">Mobile View</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr valign="top">
+      <td width="70%">
+        <img src="Home(Laptop).png" width="100%" alt="Desktop Design">
+      </td>
+      <td width="30%">
+        <img src="Phone.png" width="100%" alt="Mobile Design">
+      </td>
+    </tr>
+  </tbody>
 </table>
 
     
