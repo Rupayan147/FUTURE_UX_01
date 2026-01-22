@@ -19,11 +19,8 @@ Key Features
 
 In this repository, you will find:
 
-    Home (Laptop).png: High-fidelity desktop mockup.
-
-    Phone.png: Mobile-responsive design.
-
-    Home (Laptop).mp4: A video walkthrough of the design layout.
+ ![Smile Makeovers Desktop](Home(Laptop).png)
+![Smile Makeovers Mobile](Phone.png)
 
 ## Tools Used
 
