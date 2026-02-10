@@ -1,5 +1,6 @@
 # Smile Makovers: UI/UX Case Study
 *CIN ID: FIT/JAN26/UX1326*
+
 **Task No 1**
 ## Project Overview
 
